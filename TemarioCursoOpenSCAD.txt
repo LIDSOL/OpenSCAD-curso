@@ -1,0 +1,29 @@
+Conceptos . . . . . . . . . . .
+2.2. Sintaxis . . . . . . . . . . . .
+2.2.1. Variables . . . . . . .
+2.3. 2D . . . . . . . . . . . . . . .
+2.3.1. Cı́rculos . . . . . . . .
+2.3.2. Cuadrado . . . . . . .
+2.3.3. Polı́gonos Regulares .
+2.3.4. Polı́gono . . . . . . . .
+2.3.5. Texto . . . . . . . . .
+2.4. 3D . . . . . . . . . . . . . . .
+2.4.1. Esfera . . . . . . . . .
+2.4.2. Cubo . . . . . . . . .
+2.4.3. Cilindro . . . . . . . .
+2.5. Transformaciones . . . . . . .
+2.5.1. Translado . . . . . . .
+2.5.2. Rotación . . . . . . .
+2.5.3. Escala . . . . . . . . .
+2.5.4. Redimensionar . . . .
+2.5.5. Espejo . . . . . . . . .
+2.6. Operaciones Booleanas . . . .
+2.6.1. Union . . . . . . . . .
+2.6.2. Diferencia . . . . . . .
+2.6.3. Intersección . . . . . .
+2.7. Simplificación . . . . . . . . .
+2.7.1. Modulos . . . . . . . .
+2.7.2. Include . . . . . . . .
+2.7.3. Use . . . . . . . . . .
+2.8. Modificador de simplificación
+.
